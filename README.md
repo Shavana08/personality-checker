@@ -6,4 +6,11 @@ How to Run the App
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/personality-checker-project.git
+   git clone https://github.com/Shavana08/personality-checker.git
+
+   Install dependencies:
+   pip install -r requirements.txt
+
+Run the streamlit app:
+streamlit run app.py
+
