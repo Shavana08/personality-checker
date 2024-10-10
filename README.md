@@ -12,5 +12,5 @@ How to Run the App
    pip install -r requirements.txt
 
 Run the streamlit app:
-streamlit run app.py
+  streamlit run app.py
 
